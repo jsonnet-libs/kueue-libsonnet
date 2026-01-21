@@ -2,62 +2,166 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/kueue-libsonnet/</loc>
-         <lastmod>2026-01-19</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.14.3/</loc>
-         <lastmod>2026-01-19</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.14.3/kueue/</loc>
-         <lastmod>2026-01-19</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.14.3/kueue/v1beta1/</loc>
-         <lastmod>2026-01-19</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.14.3/kueue/v1beta1/admissionCheck/</loc>
-         <lastmod>2026-01-19</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.14.3/kueue/v1beta1/clusterQueue/</loc>
-         <lastmod>2026-01-19</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.14.3/kueue/v1beta1/cohort/</loc>
-         <lastmod>2026-01-19</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.14.3/kueue/v1beta1/localQueue/</loc>
-         <lastmod>2026-01-19</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.14.3/kueue/v1beta1/multiKueueCluster/</loc>
-         <lastmod>2026-01-19</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.14.3/kueue/v1beta1/multiKueueConfig/</loc>
-         <lastmod>2026-01-19</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.14.3/kueue/v1beta1/provisioningRequestConfig/</loc>
-         <lastmod>2026-01-19</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.14.3/kueue/v1beta1/resourceFlavor/</loc>
-         <lastmod>2026-01-19</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.14.3/kueue/v1beta1/topology/</loc>
-         <lastmod>2026-01-19</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.14.3/kueue/v1beta1/workload/</loc>
-         <lastmod>2026-01-19</lastmod>
+         <lastmod>2026-01-21</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.14.3/kueue/v1beta1/workloadPriorityClass/</loc>
-         <lastmod>2026-01-19</lastmod>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta1/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta1/admissionCheck/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta1/clusterQueue/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta1/cohort/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta1/localQueue/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta1/multiKueueCluster/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta1/multiKueueConfig/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta1/provisioningRequestConfig/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta1/resourceFlavor/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta1/topology/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta1/workload/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta1/workloadPriorityClass/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta2/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta2/admissionCheck/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta2/clusterQueue/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta2/cohort/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta2/localQueue/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta2/multiKueueCluster/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta2/multiKueueConfig/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta2/provisioningRequestConfig/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta2/resourceFlavor/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta2/topology/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta2/workload/</loc>
+         <lastmod>2026-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/kueue-libsonnet/0.15.3/kueue/v1beta2/workloadPriorityClass/</loc>
+         <lastmod>2026-01-21</lastmod>
     </url>
 </urlset>
