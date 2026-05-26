@@ -1,0 +1,15 @@
+{
+  local d = (import 'doc-util/main.libsonnet'),
+  '#':: d.pkg(name='v1beta1', url='', help=''),
+  admissionCheck: (import 'admissionCheck.libsonnet'),
+  clusterQueue: (import 'clusterQueue.libsonnet'),
+  cohort: (import 'cohort.libsonnet'),
+  localQueue: (import 'localQueue.libsonnet'),
+  multiKueueCluster: (import 'multiKueueCluster.libsonnet'),
+  multiKueueConfig: (import 'multiKueueConfig.libsonnet'),
+  provisioningRequestConfig: (import 'provisioningRequestConfig.libsonnet'),
+  resourceFlavor: (import 'resourceFlavor.libsonnet'),
+  topology: (import 'topology.libsonnet'),
+  workload: (import 'workload.libsonnet'),
+  workloadPriorityClass: (import 'workloadPriorityClass.libsonnet'),
+}
